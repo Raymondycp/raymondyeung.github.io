@@ -1,2 +1,2 @@
-Passionate about leveraging data and technology to engineer data-driven business solutions.
+### Passionate about leveraging data and technology to engineer business solutions.
 I like films, art and cat.
